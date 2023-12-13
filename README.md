@@ -1,5 +1,5 @@
 # networks-web-server
-This project was a collaboration between myself and a classmate who goes by Mynti, for our computer networking assignment.
+This project was a collaboration between myself and a classmate who goes by Mynti for our computer networking assignment.
 
 This Python script demonstrates the creation of a basic TCP server capable of handling HTTP requests and serving files over a network.
 The program is designed to process multiple requests through LAN without additional configurations, and serves any file found within the source directory.
